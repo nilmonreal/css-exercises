@@ -1,0 +1,10 @@
+div{
+    background-color: red;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+}
+/* This is an external CSS file linked to the HTML document */
+/* It styles all <div> elements with a red background, white text, padding, margin, and a specific font family. */
