@@ -1,0 +1,22 @@
+.bg-red {
+    background-color: #FF8C78 ;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-medium {
+    font-size: 30px;
+}
+
+#text-blue {
+    color: #0011ff ;
+    font-size:50px;
+}
+
+#bg-green {
+    background-color: #00FF00 ;
+    font-weight: bold;
+    font-size: 30px;
+}
